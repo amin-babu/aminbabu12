@@ -1,4 +1,5 @@
-![image](https://github.com/aminbabu12/aminbabu12/assets/121653026/285560f7-5d04-475e-8036-e6c2cc31ca40)<h1 align="center">Hi 👋, I'm Amin Babu</h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbWdc_oA0LHbaDHIgeUL3xDBOrvTTVXS2prr5wLHB9w&s">
+<h1 align="center">Hi 👋, I'm Amin Babu</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 <img align="right" alt="coding" width="400" src="https://lordicon.com/icons/wired/flat/743-web-code.gif">
 
