@@ -1,7 +1,7 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbWdc_oA0LHbaDHIgeUL3xDBOrvTTVXS2prr5wLHB9w&s">
+<img width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbWdc_oA0LHbaDHIgeUL3xDBOrvTTVXS2prr5wLHB9w&s">
 <h1 align="center">Hi 👋, I'm Amin Babu</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
-<img align="right" alt="coding" width="400" src="https://lordicon.com/icons/wired/flat/743-web-code.gif">
+<img align="right" alt="coding" width="200" src="https://lordicon.com/icons/wired/flat/743-web-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbabu12&label=Profile%20views&color=0e75b6&style=flat" alt="aminbabu12" /> </p>
 
