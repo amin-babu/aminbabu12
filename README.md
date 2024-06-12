@@ -1,4 +1,4 @@
-<img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVbWdc_oA0LHbaDHIgeUL3xDBOrvTTVXS2prr5wLHB9w&s">
+<img width="100%" src="https://media.licdn.com/dms/image/D4D22AQHCtZDPxAUubw/feedshare-shrink_800/0/1718211720119?e=1721260800&v=beta&t=0vSawr883SSdPu8fBNOceJ_CLy-oYTv0j5XTe378cvs">
 <h1 align="center">Hi 👋, I'm Amin Babu</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 <img align="right" alt="coding" width="200" src="https://lordicon.com/icons/wired/flat/743-web-code.gif">
